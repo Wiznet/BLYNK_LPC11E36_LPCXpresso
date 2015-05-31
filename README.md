@@ -28,5 +28,6 @@ Step 4. Build the Project and program to W5500-EVB
 
 Step 5. Run!
 
-<Notice>
+!! Notice !!
+
 You have to use this example with (1) DHCP client code and Router(DHCP server) or (2) Public IP address.
