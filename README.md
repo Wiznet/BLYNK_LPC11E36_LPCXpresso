@@ -31,12 +31,14 @@ Step 5. Run!
 ### Caution
 You have to use this example with (1) DHCP client code and Router(DHCP server) or (2) Public IP address.
 
-
-## Related Project GitHub Repositories
+### Related Project GitHub Repositories
 - [W5500-EVB Main](https://github.com/Wiznet/W5500_EVB)
 - [Loopback Test](https://github.com/Wiznet/Loopback_LPC11E36_LPCXpresso): Loopback test example project (TCP server / TCP client / UDP)
+- [HTTP Server](https://github.com/Wiznet/HTTPServer_LPC11E36_LPCXpresso): Web server example project
 - [FTP Server](https://github.com/Wiznet/FTP_LPC11E36_LPCXpresso): FTP server example project
 - [SNMPv1 Agent](https://github.com/Wiznet/SNMP_LPC11E36_LPCXpresso): SNMPv1 agent example project (Get/Set/Trap)
+- [SNTP Client](https://github.com/Wiznet/SNTP_LPC11E36_LPCXpresso): NTP client example project
+- [TFTP Client](https://github.com/Wiznet/TFTP_LPC11E36_LPCXpresso): TFTP client example project
 
 ## How to add a submodule of ioLibrary in project
 - $ git submodule add git@github.com:Wiznet/ioLibrary_Driver.git project_src/ioLibrary
