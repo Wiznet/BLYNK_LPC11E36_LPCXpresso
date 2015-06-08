@@ -9,11 +9,17 @@
 ### Blynk - build an app for your Arduino project in 5 minutes
 Imagine a prototyping board on your smartphone where you drag and drop buttons, sliders, displays, graphs and other functional widgets. And in a matter of minutes these widgets can control Arduino and get data from it.
 
+<p align="center">
+  <img width="70%" src="http://wiznetacademy.com/wp/wp-content/uploads/2015/06/blynk_main.png" />
+  <br>
+  <img width="60%" src="http://wiznetacademy.com/wp/wp-content/uploads/2015/06/blynk_network.png" />
+</p>
+
 For more details, please refer to the Blynk official websiet, http://www.blynk.cc/
 
 ## How to Use
 The Simple Blynk Client for W5500-EVB is roughly composed of the following functions.
-- blynk_begin() : Handler the HTTP server initialization (Server IP and Port, Auth key, Buf and Socket number)
+- blynk_begin() : Handler the Blynk Client initialization (Server IP and Port, Auth key, Buffer and Socket number)
 - blynk_run() : Simple Blynk Client process handler in main routine.
 
 Step 1. Download Blynk App and Get the Auth key Token in the App (Apple App Store / Google play)
