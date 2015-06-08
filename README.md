@@ -37,7 +37,7 @@ Step 5. Run!
 ### Caution
 You have to use this example with (1) DHCP client code and Router(DHCP server) or (2) Public IP address.
 
-### Related Project GitHub Repositories
+## Related Project GitHub Repositories
 - [W5500-EVB Main](https://github.com/Wiznet/W5500_EVB)
 - [Loopback Test](https://github.com/Wiznet/Loopback_LPC11E36_LPCXpresso): Loopback test example project (TCP server / TCP client / UDP)
 - [HTTP Server](https://github.com/Wiznet/HTTPServer_LPC11E36_LPCXpresso): Web server example project
